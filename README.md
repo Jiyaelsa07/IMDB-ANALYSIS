@@ -1,62 +1,58 @@
-# Technical Profile Overview – Tools & Technologies
+# IMDB Dataset Analysis
 
-This repository  focusing on a comprehensive overview of the technologies and tools I have explored and applied throughout my learning journey.
-
----
-
-## 📘 Project Summary
-
-This document outlines my technical ecosystem, covering a range of domains that contribute to my current skill set. It reflects both theoretical understanding and practical exposure to various tools and platforms.
-
-The areas covered include:
-
-* Development environments and programming tools
-* Web development technologies
-* Artificial Intelligence and Machine Learning frameworks
-* Emerging Agentic AI and Large Language Model (LLM) tools
-* Productivity tools for AI-assisted workflows
-* Cloud computing platforms
-* Database systems
+This repository contains my submission for the IMDB dataset analysis task.
 
 ---
 
-## 🔍 Approach and Content
+## 📘 Project Overview
 
-Each section in the document is structured to provide:
-
-* A concise description of the technology
-* My level of proficiency
-* Practical applications and usage scenarios
-* Challenges encountered during the learning process
-* Insights into its capabilities and advantages
+The objective of this project is to perform data preprocessing, exploratory data analysis (EDA), and visualization on the IMDB movie reviews dataset.
 
 ---
 
-## 🎯 Purpose
+## 📂 Dataset
 
-The aim of this submission is to highlight my technical foundation, demonstrate hands-on experience, and reflect my ability to learn and adapt to evolving technologies.
+The dataset contains movie reviews categorized into:
+
+* Positive
+* Negative
 
 ---
 
-## ⚙️ Key Competencies
+## 🔧 Steps Performed
 
-* Python Programming and Problem Solving
-* Fundamentals of Machine Learning
-* Development of AI-driven solutions
-* Prompt Design and Optimization
-* Basic Web Application Development
-* Understanding of Databases
-* Introduction to Cloud Technologies
+* Loaded dataset using Pandas
+* Checked and handled missing values
+* Performed Exploratory Data Analysis (EDA)
+* Analyzed sentiment distribution
+* Created visualization using Matplotlib
+
+---
+
+## 📊 Key Findings
+
+* The dataset contains both positive and negative reviews
+* The dataset is balanced
+* Basic insights were obtained using analysis and visualization
+
+---
+
+## 🛠 Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Google Colab
 
 ---
 
 ## 📄 Documentation
 
-A detailed explanation of all tools and technologies is available in the accompanying PDF document included in this repository.
+The complete analysis is available in the notebook file in this repository.
 
 ---
 
 ## 👤 Author
-
 Jiya Elsa Jobi
-SJCET Palai
+SJCET PALAI
+
